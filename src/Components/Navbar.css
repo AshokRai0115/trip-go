@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    list-style: none;
+}
+
+.navbar-list{
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid white; */
+    width: 285px;
+    height: 40px;
+    font-size: 16px;
+    line-height: 40px;
+}
+
+.signup{
+    /* border: 2px solid white; */
+    font-size: 16px;
+    line-height: 40px;
+    padding: 0 16px;
+    background-color: green;
+    color: white;
+    border: none;
+}
