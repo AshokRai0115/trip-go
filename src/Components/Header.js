@@ -13,7 +13,7 @@ function Header() {
                     <div className="top-right"><Navbar />
                         <button className="signup">Sign Up</button></div>
                 </div>
-                <h1>Travel to explore new</h1>
+                <h1>Travel to <br/> <span className="heading-part"> explore new</span></h1>
             </div>
         </div>
     )
