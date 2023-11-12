@@ -55,7 +55,7 @@
 }
 .heading{
     font-size: 50px;
-    text-transform: capitalize;
+    text-transform: uppercase;
     line-height: 45px;
     /* border: 1px solid rgb(23, 23, 24); */
 

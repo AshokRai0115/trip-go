@@ -42,13 +42,11 @@ p{
 }
 
 .top-left{
-    /* width: 300px; */
     position: relative;
     left: -10px;
     display: flex;
     justify-content:left;
     align-items: center;
-    /* border: 2px solid black; */
     overflow: hidden;
 
 
@@ -59,7 +57,6 @@ p{
 }
 
 .logo-name{
-    /* border: 2px solid; */
     color: green;
     font-size: 30px;
     font-weight: bold;
@@ -76,7 +73,7 @@ p{
 h1{
     font-size: 100px;
     line-height: 85px ;
-    text-transform: capitalize;
+    text-transform: uppercase;
 }
 .heading-part{
     color: green;

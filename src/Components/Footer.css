@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.footer{
+    background-color: black;
+    height: 140px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-container{
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border: 1px solid ; */
+}
+
+.footer-text{
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 45px;
+}
+
+.highlight{
+    color: green;
+}
+.social-media{
+    width: 110px;
+    display: flex;
+    justify-content: space-between;
+    /* border: 1px solid ; */
+    
+
+}
